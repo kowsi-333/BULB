@@ -1,0 +1,19 @@
+body{
+    background:linear-gradient(rgb(245, 181, 181),rgb(195, 52, 195),rgb(101, 101, 226),rgb(216, 97, 117),rgb(255, 132, 132),rgb(195, 52, 195),rgb(101, 101, 226),rgb(216, 97, 117));
+}
+h1{
+    margin:auto;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    text-shadow:5px 5px 5px 5px violet;
+    background:white;
+    width:700px;
+    margin-top: 80px;
+    border:2px solid black;
+    border-color: aqua,palevioletred,burlywood,palegreen,red;
+}
+#bulb{
+   margin-top:100px;
+   
+}
